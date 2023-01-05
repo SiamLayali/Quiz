@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string-array name="TODO">
+        <item> Full Time </item>
+        <item>Part Time</item>
+    </string-array>
+</resources>
